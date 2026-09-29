@@ -7,5 +7,5 @@ skills:
 - MATLAB
 - 3D 프린팅
 - 파라메트릭 실험
-main-image: /project.webp 
+main-image: /camera view.png
 ---
