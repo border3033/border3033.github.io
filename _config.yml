@@ -44,40 +44,30 @@ external-links:    # input only your own url slug. The icons with missing entrie
 
 # Skills Section - Add the list of your Skills by categories/tools. The indentation for each level needs to be precise. 
 skills:
-  - category: 3D Modeling
+  - category: 기계설계
     tools:
-    - Onshape
-    - Solidworks
-    - Creo
     - Fusion 360 (Autodesk)
-    - Blender (for complex shapes or animations)
-    - Siemens NX
-    - Inventor (Autodesk)
-    - CATIA (Dassault Systèmes)
-  - category: Prototyping
+    - Abaqus
+    - AutoCAD
+    - COMSOL
+  - category: 해석 및 시뮬레이션
     tools:
-    - SLA
-    - CNC
+    - Abaqus
+    - MATLAB
+    - STAR-CCM+
+    - 구조응력 해석
+    - 진동 해석
+  - category: 프로토타이핑 및 실험
+    tools:
     - FDM
-    - SLS
-    - DMLS
-    - PolyJet Printing
-    - Vacuum Casting
-    - Laser Cutting
-    - Water Jet Cutting
-    - Arduino / Raspberry Pi
-    - Breadboarding for circuit testing
-  - category: Design Standards / Practices
+    - SLA
+    - LightBurn (레이저 커팅)
+  - category: 데이터 분석 및 문서화
     tools:
-    - GD&T ASME Y14
-    - ISO fits and tolerances
-    - PLM (PTC Windchill / Arena)   
-  - category: PCB Design
-    tools:
-    - Altium Designer
-    - Altium
-    - Eagle 
-    - KiCad
+    - MATLAB
+    - Microsoft
+    - Overleaf
+    - Github
   - category: Problem Solving / Risk Management
     tools:
     - Root Cause Analysis (e.g., 5 Whys, Fishbone Diagram)
