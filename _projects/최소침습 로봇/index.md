@@ -13,7 +13,7 @@ main-image: /camera view.png
 ## 프로젝트 개요
 
 - **프로젝트:** 자기 구동 연성 연속체 로봇(Magnetic Soft Continuum Robot, MSCR)
-- **연구 형태:** 석사 논문 / University of Leeds 외부 연구
+- **연구 형태:** 석사 논문 / University of Leeds, STORM LAB 외부 연구
 - **핵심 역할:** 로봇 설계 · 시제품 제작 · 실험 · 데이터 분석 · 성능 검증
 - **사용 기술:** Fusion 360 · MATLAB · Fibre Jamming · Magnetic Actuation
 
