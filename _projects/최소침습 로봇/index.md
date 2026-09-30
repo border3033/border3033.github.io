@@ -19,7 +19,17 @@ main-image: /MSCR main.png
 - **연구 형태:** 기계공학 석사 논문 (외부 연구원)
 - **담당 역할:** 로봇 설계 · 제작 · 실험 시스템 구축 · 파라메트릭 실험 · 데이터 분석 및 성능 검증
 
-<!-- 대표 사진 1장: 완성된 로봇 또는 전체 실험 셋업 -->
+
+<div style="max-width: 850px; margin: 20px auto;">
+  <iframe
+    width="100%"
+    style="aspect-ratio: 16/9; border: none;"
+    src="https://www.youtube.com/embed/7Td5GKU64RE"
+    title="MSCR 프로젝트 실험 영상"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+  </iframe>
+</div>
 
 
 
