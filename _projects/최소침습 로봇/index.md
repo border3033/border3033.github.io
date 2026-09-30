@@ -38,24 +38,17 @@ main-image: /MSCR main.png
 ## 연구 목표
 
 - MSCR 내부에 **Fibre Jamming 기반 가변 강성 구조** 설계 및 통합
-- 섬유 수, 진공압, 굽힘 방향 등 주요 설계 매개변수의 영향 분석
-- 실험을 통해 Soft/Rigid 상태의 강성 변화 정량화
-
-
-## 설계 · 제작 · 실험
-
-- 로봇 구조 및 Fibre Jamming 시스템 **직접 설계**
-- TPE sleeve, 구리 섬유, 영구자석을 이용한 **시제품 직접 제작**
-- 섬유 수 및 진공압을 변화시키는 **파라메트릭 실험 수행**
-- Helmholtz coil과 카메라 기반의 **실험 시스템 구축**
-- MATLAB을 활용한 변형 데이터 처리 및 강성 분석
-- 이론 모델과 실험 결과 비교를 통한 성능 검증
-
+- TPE sleeve, 구리 섬유, NdFeB 자석을 활용하여 **직접 제조**
+- 섬유 수, 진공압, 굽힘 방향을 변화시키는 **파라메트릭 실험 수행**
+- MATLAB을 활용한 변형 **데이터 분석** 및 Soft/Rigid 상태의 강성 변화 정량화
+- 이론 모델과 실험 결과 비교를 통한 **성능 검증**
 
 
 {% include image-gallery.html images="https://raw.githubusercontent.com/border3033/border3033.github.io/main/_projects/최소침습%20로봇/setup.png" height="400" %}
 
-*그림 1. MSCR 실험 장치 구성*
+<p align="center">
+  그림 1. MSCR 실험 장치 구성
+</p>
 
 
 
