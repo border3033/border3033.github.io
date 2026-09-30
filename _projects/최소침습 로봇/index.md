@@ -52,9 +52,12 @@ main-image: /MSCR main.png
 - 이론 모델과 실험 결과 비교를 통한 성능 검증
 
 
-{% include image-gallery.html images="setup.png" height="400" %}
+
+{% include image-gallery.html images="https://raw.githubusercontent.com/border3033/border3033.github.io/main/_projects/최소침습%20로봇/setup.png" height="400" %}
 
 *그림 1. MSCR 실험 장치 구성*
+
+
 
 
 ## 결과 및 검증
