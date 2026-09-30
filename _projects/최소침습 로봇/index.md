@@ -50,6 +50,10 @@ main-image: /MSCR main.png
   그림 1. MSCR 실험 장치 구성
 </p>
 
+{% include image-gallery.html images="https://raw.githubusercontent.com/border3033/border3033.github.io/main/_projects/최소침습%20로봇/setup 2.png" height="400" %}
+<p align="center">
+  그림 2. 카메라 시점에서 본 헬름홀츠 코일 내 MSCR
+</p>
 
 
 
@@ -60,4 +64,4 @@ main-image: /MSCR main.png
 - 로봇 방향에 따른 구조적 비대칭 및 강성 차이 확인
 - 실험 결과와 이론 모델을 비교하여 설계 성능 검증
 
-<!-- 결과 그래프 1~2개 -->
+{% include image-gallery.html images="https://raw.githubusercontent.com/border3033/border3033.github.io/main/_projects/최소침습%20로봇/섬유수비교.png" height="400" %}
