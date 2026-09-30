@@ -51,8 +51,10 @@ main-image: /MSCR main.png
 - MATLAB을 활용한 변형 데이터 처리 및 강성 분석
 - 이론 모델과 실험 결과 비교를 통한 성능 검증
 
-<!-- 여기에 사진 2~3장:
-     CAD/구조도 | 실제 제작 사진 | 실험 셋업 -->
+
+{% include image-gallery.html images="setup.png" height="400" %}
+
+*그림 1. MSCR 실험 장치 구성*
 
 
 ## 결과 및 검증
