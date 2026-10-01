@@ -95,11 +95,11 @@ main-image: /MSCR main.png
 - **방향별 특성:** 작업 채널이 없는 비교 구조에서는 굽힘 방향에 따른 성능 차이가 제한적이었음.
 - **TPE 기반 제작:** 두께 38 μm의 TPE 필름과 섬유 재밍을 결합하여 가변 강성 구현 및 구조 맞춤화 가능성 확인.
 
-{% include image-gallery.html images="https://raw.githubusercontent.com/border3033/border3033.github.io/main/_projects/최소침습%20로봇/섬유수비교.png" height="300" %}
+{% include image-gallery.html images="https://raw.githubusercontent.com/border3033/border3033.github.io/main/_projects/최소침습%20로봇/섬유수비교.png" height="400" %}
 
 {% include image-gallery.html images="https://raw.githubusercontent.com/border3033/border3033.github.io/main/_projects/최소침습%20로봇/SCF.jpg" height="300" %}
 
-
+{% include image-gallery.html images="https://raw.githubusercontent.com/border3033/border3033.github.io/main/_projects/최소침습%20로봇/진공압변화.png" height="300" %}
 
 ## 연구 한계 및 향후 개선
 
