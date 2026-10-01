@@ -76,3 +76,31 @@ main-image: /coverpage.png
 - 응력 집중이 발생하는 구조적 취약 부위 파악
 - 해석 결과를 바탕으로 베어링 브래킷의 **구조적 안전성 검토**
 - 메쉬 크기 및 경계조건이 해석 결과에 미치는 영향 확인
+
+<div style="display: flex; gap: 24px; justify-content: center; align-items: flex-start; flex-wrap: wrap; margin-top: 25px;">
+
+  
+  <figure style="flex: 1 1 0; max-width: 48%; min-width: 300px; margin: 0; text-align: center;">
+    <img
+      src="https://raw.githubusercontent.com/border3033/border3033.github.io/main/_projects/베어링%20브래킷의%20구조응력%20해석/2D메시수렴.png"
+      style="width: 100%; height: 400px; object-fit: contain;"
+      alt="2D메시수렴성"
+    >
+    <figcaption style="margin-top: 8px;">
+      그림 3. 2D 모델의 요소 수에 따른 A, B, C 지점 최대 등가응력 수렴성
+    </figcaption>
+  </figure>
+
+ 
+  <figure style="flex: 1 1 0; max-width: 48%; min-width: 300px; margin: 0; text-align: center;">
+    <img
+      src="https://raw.githubusercontent.com/border3033/border3033.github.io/main/_projects/베어링%20브래킷의%20구조응력%20해석/3D메시수렴.png"
+      style="width: 100%; height: 400px; object-fit: contain;"
+      alt="3D메시수렴성"
+    >
+    <figcaption style="margin-top: 8px;">
+      그림 4. 3D 모델의 요소 수에 따른 A, B, C 지점 최대 등가응력 수렴성
+    </figcaption>
+  </figure>
+
+</div>
