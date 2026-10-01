@@ -95,11 +95,46 @@ main-image: /MSCR main.png
 - **방향별 특성:** 작업 채널이 없는 비교 구조에서는 굽힘 방향에 따른 성능 차이가 제한적이었음.
 - **TPE 기반 제작:** 두께 38 μm의 TPE 필름과 섬유 재밍을 결합하여 가변 강성 구현 및 구조 맞춤화 가능성 확인.
 
-{% include image-gallery.html images="https://raw.githubusercontent.com/border3033/border3033.github.io/main/_projects/최소침습%20로봇/섬유수비교.png" height="400" %}
+<!-- 섬유 수 비교 그래프: 단독 가운데 정렬 -->
+<figure style="margin: 25px auto; text-align: center;">
+  <img
+    src="https://raw.githubusercontent.com/border3033/border3033.github.io/main/_projects/최소침습%20로봇/섬유수비교.png"
+    style="max-width: 100%; max-height: 400px; width: auto; height: auto;"
+    alt="섬유 수 비교"
+  >
+  <figcaption style="margin-top: 8px;">
+    그림 4. 섬유 수에 따른 강성 변화
+  </figcaption>
+</figure>
 
-{% include image-gallery.html images="https://raw.githubusercontent.com/border3033/border3033.github.io/main/_projects/최소침습%20로봇/SCF.jpg" height="300" %}
 
-{% include image-gallery.html images="https://raw.githubusercontent.com/border3033/border3033.github.io/main/_projects/최소침습%20로봇/진공압변화.png" height="300" %}
+<!-- SCF + 진공압 변화: 한 줄에 2개 -->
+<div style="display: flex; gap: 24px; justify-content: center; align-items: flex-start; flex-wrap: wrap; margin-top: 25px;">
+
+  <figure style="flex: 1 1 0; max-width: 48%; min-width: 300px; margin: 0; text-align: center;">
+    <img
+      src="https://raw.githubusercontent.com/border3033/border3033.github.io/main/_projects/최소침습%20로봇/SCF.jpg"
+      style="width: 100%; height: 300px; object-fit: contain;"
+      alt="강성 변화율 비교"
+    >
+    <figcaption style="margin-top: 8px;">
+      그림 5. 강성 변화율(SCF) 비교
+    </figcaption>
+  </figure>
+
+  <figure style="flex: 1 1 0; max-width: 48%; min-width: 300px; margin: 0; text-align: center;">
+    <img
+      src="https://raw.githubusercontent.com/border3033/border3033.github.io/main/_projects/최소침습%20로봇/진공압변화.png"
+      style="width: 100%; height: 300px; object-fit: contain;"
+      alt="진공압 변화"
+    >
+    <figcaption style="margin-top: 8px;">
+      그림 6. 진공압에 따른 강성 변화
+    </figcaption>
+  </figure>
+
+</div>
+
 
 ## 연구 한계 및 향후 개선
 
