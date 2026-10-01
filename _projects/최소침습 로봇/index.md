@@ -60,15 +60,31 @@ main-image: /MSCR main.png
   그림 1. MSCR 실험 장치 구성
 </p>
 
-{% include image-gallery.html images="https://raw.githubusercontent.com/border3033/border3033.github.io/main/_projects/최소침습%20로봇/setup 2.png" height="400" %}
-<p align="center">
-  그림 2. 카메라 시점에서 본 헬름홀츠 코일 내 MSCR
-</p>
+<div style="display: flex; gap: 24px; align-items: flex-start; flex-wrap: wrap;">
 
-{% include image-gallery.html images="https://raw.githubusercontent.com/border3033/border3033.github.io/main/_projects/최소침습%20로봇/rear tube assembly.png" height="400" %}
-<p align="center">
-  그림 3. 후방 튜브 어셈블리
-</p>
+  <figure style="flex: 1; margin: 0; min-width: 300px;">
+    <img
+      src="https://raw.githubusercontent.com/border3033/border3033.github.io/main/_projects/최소침습%20로봇/setup%202.png"
+      style="width: 100%; height: 400px; object-fit: contain;"
+      alt="카메라 시점에서 본 MSCR"
+    >
+    <figcaption style="text-align: center; margin-top: 8px;">
+      그림 2. 카메라 시점에서 본 헬름홀츠 코일 내 MSCR
+    </figcaption>
+  </figure>
+
+  <figure style="flex: 1; margin: 0; min-width: 300px;">
+    <img
+      src="https://raw.githubusercontent.com/border3033/border3033.github.io/main/_projects/최소침습%20로봇/rear%20tube%20assembly.png"
+      style="width: 100%; height: 400px; object-fit: contain;"
+      alt="후방 튜브 어셈블리"
+    >
+    <figcaption style="text-align: center; margin-top: 8px;">
+      그림 3. 후방 튜브 어셈블리
+    </figcaption>
+  </figure>
+
+</div>
 
 
 ## 결과 및 검증
