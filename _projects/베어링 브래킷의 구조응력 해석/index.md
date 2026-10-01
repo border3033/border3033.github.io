@@ -69,13 +69,13 @@ main-image: /coverpage.png
 
 </div>
 
-
+<br>
 ## 결과 및 검토
 
-- 주요 하중 조건에서 **최대 응력 및 변형 위치 확인**
-- 응력 집중이 발생하는 구조적 취약 부위 파악
-- 해석 결과를 바탕으로 베어링 브래킷의 **구조적 안전성 검토**
-- 메쉬 크기 및 경계조건이 해석 결과에 미치는 영향 확인
+- **메시 수렴성 검증:** 요소 수 증가에 따른 최대 등가응력 변화를 비교한 결과, 최종 메시 단계에서 주요 지점의 응력 변화가 **1% 이내**로 수렴함을 확인
+- **응력 집중 위치 파악:** 최대 응력은 **볼트 홀 외곽 및 형상이 급격히 변화하는 곡률/필렛 부위**에 집중되는 것을 확인하여 구조적 취약 영역을 식별
+- **2D/3D 모델 비교:** 3D 해석에서는 두께 방향(Z축) 효과가 반영되면서 A, B, C 지점의 응력값이 달라졌으며, 2D 모델보다 실제 구조의 응력 거동을 더 현실적으로 반영함
+- **경량화 설계:** 최대 등가응력 수준을 유지하면서 **약 33% 질량 감소** 달성
 
 <div style="display: flex; gap: 24px; justify-content: center; align-items: flex-start; flex-wrap: wrap; margin-top: 25px;">
 
@@ -133,7 +133,7 @@ main-image: /coverpage.png
 
 </div>
 
-<br><br>
+<br>
 
 ## 경량화 설계안
 
@@ -141,7 +141,7 @@ main-image: /coverpage.png
 <figure style="margin: 25px auto; text-align: center;">
   <img
     src="https://raw.githubusercontent.com/border3033/border3033.github.io/main/_projects/베어링%20브래킷의%20구조응력%20해석/concept1.png"
-    style="max-width: 100%; max-height: 300px; width: auto; height: auto; display: block; margin: 0 auto;"
+    style="max-width: 100%; max-height: 330px; width: auto; height: auto; display: block; margin: 0 auto;"
     alt="경량화 설계안 1: 절삭 형상 적용"
   >
   <figcaption style="margin-top: 8px; text-align: center;">
