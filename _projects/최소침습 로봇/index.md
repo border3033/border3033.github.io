@@ -103,7 +103,7 @@ main-image: /MSCR main.png
     alt="섬유 수 비교"
   >
   <figcaption style="margin-top: 8px;">
-    그림 4. 섬유 수에 따른 강성 변화
+    그림 4. 작업 채널이 없는 600가닥 MSCR의 자기장 증가에 따른 형상 변화: 상단은 대기압(0 kPa), 하단은 -40 kPa 진공 상태
   </figcaption>
 </figure>
 
@@ -118,7 +118,7 @@ main-image: /MSCR main.png
       alt="강성 변화율 비교"
     >
     <figcaption style="margin-top: 8px;">
-      그림 5. 강성 변화율(SCF) 비교
+      그림 5. 섬유 수에 따른 굽힘 방향별 강성 변화율(SCF)
     </figcaption>
   </figure>
 
@@ -129,7 +129,7 @@ main-image: /MSCR main.png
       alt="진공압 변화"
     >
     <figcaption style="margin-top: 8px;">
-      그림 6. 진공압에 따른 강성 변화
+      그림 6. 진공압에 따른 굽힘 방향별 정규화 처짐
     </figcaption>
   </figure>
 
