@@ -147,7 +147,7 @@ main-image: /MSCR main.png
   <iframe
     width="100%"
     style="aspect-ratio: 16/9; border: none;"
-    src="https://www.youtube.com/watch?v=atpv-xisPTs"
+    src="https://www.youtube.com/embed/atpv-xisPTs"
     title="MSCR 프로젝트 실험 영상"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen>
