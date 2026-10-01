@@ -133,6 +133,7 @@ main-image: /coverpage.png
 
 </div>
 
+<br><br>
 
 ## 경량화 설계안
 
@@ -140,7 +141,7 @@ main-image: /coverpage.png
 <figure style="margin: 25px auto; text-align: center;">
   <img
     src="https://raw.githubusercontent.com/border3033/border3033.github.io/main/_projects/베어링%20브래킷의%20구조응력%20해석/concept1.png"
-    style="max-width: 100%; max-height: 350px; width: auto; height: auto; display: block; margin: 0 auto;"
+    style="max-width: 100%; max-height: 300px; width: auto; height: auto; display: block; margin: 0 auto;"
     alt="경량화 설계안 1: 절삭 형상 적용"
   >
   <figcaption style="margin-top: 8px; text-align: center;">
