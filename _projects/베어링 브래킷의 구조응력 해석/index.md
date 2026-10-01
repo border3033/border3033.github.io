@@ -104,3 +104,32 @@ main-image: /coverpage.png
   </figure>
 
 </div>
+
+<div style="display: flex; gap: 24px; justify-content: center; align-items: flex-start; flex-wrap: wrap; margin-top: 25px;">
+
+  <!-- 홀 미적용 브래킷 -->
+  <figure style="flex: 1 1 0; max-width: 48%; min-width: 300px; margin: 0; text-align: center;">
+    <img
+      src="https://raw.githubusercontent.com/border3033/border3033.github.io/main/_projects/베어링%20브래킷의%20구조응력%20해석/VMSwithoutHole.png"
+      style="width: 100%; height: 400px; object-fit: contain;"
+      alt="홀 미적용 브래킷의 등가응력 분포"
+    >
+    <figcaption style="margin-top: 8px;">
+      그림 5. 홀 미적용 브래킷의 등가응력 분포 및 응력 집중 분석
+    </figcaption>
+  </figure>
+
+  <!-- 홀 적용 브래킷 -->
+  <figure style="flex: 1 1 0; max-width: 48%; min-width: 300px; margin: 0; text-align: center;">
+    <img
+      src="https://raw.githubusercontent.com/border3033/border3033.github.io/main/_projects/베어링%20브래킷의%20구조응력%20해석/VMSHole.png"
+      style="width: 100%; height: 400px; object-fit: contain;"
+      alt="홀 적용 브래킷의 등가응력 분포"
+    >
+    <figcaption style="margin-top: 8px;">
+      그림 6. 홀 적용 브래킷의 등가응력 분포 및 응력 집중 분석
+    </figcaption>
+  </figure>
+
+</div>
+
