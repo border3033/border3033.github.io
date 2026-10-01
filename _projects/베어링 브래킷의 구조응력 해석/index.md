@@ -12,7 +12,7 @@ skills:
   - 메싱
   - 응력 및 변형 분석
   - 구조 설계 검토
-
+main-image: /coverpage.png
 ---
 
 
