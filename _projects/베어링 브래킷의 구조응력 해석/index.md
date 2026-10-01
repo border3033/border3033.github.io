@@ -41,6 +41,35 @@ main-image: /coverpage.png
 - 해석 결과를 바탕으로 구조 안전성을 유지하는 **경량화 설계안 제안**
 
 
+<div style="display: flex; gap: 24px; justify-content: center; align-items: flex-start; flex-wrap: wrap; margin-top: 25px;">
+
+  <!-- 구조 개념도 -->
+  <figure style="flex: 1 1 0; max-width: 48%; min-width: 300px; margin: 0; text-align: center;">
+    <img
+      src="https://raw.githubusercontent.com/border3033/border3033.github.io/main/_projects/베어링%20브래킷의%20구조응력%20해석/schematic.png"
+      style="width: 100%; height: 400px; object-fit: contain;"
+      alt="베어링 브래킷 구조 개념도"
+    >
+    <figcaption style="margin-top: 8px;">
+      그림 1. 베어링 브래킷 구조 및 하중 조건
+    </figcaption>
+  </figure>
+
+  <!-- 계산 효율 -->
+  <figure style="flex: 1 1 0; max-width: 48%; min-width: 300px; margin: 0; text-align: center;">
+    <img
+      src="https://raw.githubusercontent.com/border3033/border3033.github.io/main/_projects/베어링%20브래킷의%20구조응력%20해석/계산효율.png"
+      style="width: 100%; height: 400px; object-fit: contain;"
+      alt="요소 수에 따른 계산 시간"
+    >
+    <figcaption style="margin-top: 8px;">
+      그림 2. 요소 수 증가에 따른 계산 시간 변화
+    </figcaption>
+  </figure>
+
+</div>
+
+
 ## 결과 및 검토
 
 - 주요 하중 조건에서 **최대 응력 및 변형 위치 확인**
