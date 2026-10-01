@@ -65,6 +65,10 @@ main-image: /MSCR main.png
   그림 2. 카메라 시점에서 본 헬름홀츠 코일 내 MSCR
 </p>
 
+{% include image-gallery.html images="https://raw.githubusercontent.com/border3033/border3033.github.io/main/_projects/최소침습%20로봇/rear tube assembly.png" height="400" %}
+<p align="center">
+  그림 3. 후방 튜브 어셈블리
+</p>
 
 
 ## 결과 및 검증
