@@ -133,3 +133,58 @@ main-image: /coverpage.png
 
 </div>
 
+
+## 경량화 설계안
+
+<!-- 경량화 설계안 1 -->
+<figure style="margin: 25px auto; text-align: center;">
+  <img
+    src="https://raw.githubusercontent.com/border3033/border3033.github.io/main/_projects/베어링%20브래킷의%20구조응력%20해석/concept1.png"
+    style="max-width: 100%; max-height: 350px; width: auto; height: auto; display: block; margin: 0 auto;"
+    alt="경량화 설계안 1: 절삭 형상 적용"
+  >
+  <figcaption style="margin-top: 8px; text-align: center;">
+    경량화 설계안 1. 절삭 형상 적용
+  </figcaption>
+</figure>
+
+
+<!-- 경량화 설계안 2 -->
+<figure style="margin: 25px auto; text-align: center;">
+  <img
+    src="https://raw.githubusercontent.com/border3033/border3033.github.io/main/_projects/베어링%20브래킷의%20구조응력%20해석/concept2.png"
+    style="max-width: 100%; max-height: 350px; width: auto; height: auto; display: block; margin: 0 auto;"
+    alt="경량화 설계안 2: 외측 반경 축소"
+  >
+  <figcaption style="margin-top: 8px; text-align: center;">
+    경량화 설계안 2. 외측 반경 축소
+  </figcaption>
+</figure>
+
+
+<!-- 경량화 설계안 3 -->
+<figure style="margin: 25px auto; text-align: center;">
+  <img
+    src="https://raw.githubusercontent.com/border3033/border3033.github.io/main/_projects/베어링%20브래킷의%20구조응력%20해석/concept3.png"
+    style="max-width: 100%; max-height: 350px; width: auto; height: auto; display: block; margin: 0 auto;"
+    alt="경량화 설계안 3: 재료 변경"
+  >
+  <figcaption style="margin-top: 8px; text-align: center;">
+    경량화 설계안 3. 재료 변경
+  </figcaption>
+</figure>
+
+
+<!-- 경량화 설계안 4 -->
+<figure style="margin: 25px auto; text-align: center;">
+  <img
+    src="https://raw.githubusercontent.com/border3033/border3033.github.io/main/_projects/베어링%20브래킷의%20구조응력%20해석/concept4.png"
+    style="max-width: 100%; max-height: 350px; width: auto; height: auto; display: block; margin: 0 auto;"
+    alt="경량화 설계안 4: 3개 설계안 통합 적용"
+  >
+  <figcaption style="margin-top: 8px; text-align: center;">
+    경량화 설계안 4. 3개 설계안 통합 적용
+  </figcaption>
+</figure>
+
+
