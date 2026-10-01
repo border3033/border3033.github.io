@@ -142,3 +142,14 @@ main-image: /MSCR main.png
 - **소형화:** 실제 최소침습 의료 환경에 적합한 로봇 직경 축소 필요
 - **안전성:** 인체 내 적용을 위한 적정 진공압 및 작동 안전성 검증 필요
 - **제어 성능:** 정밀 조향 및 복잡한 인체 환경에서의 이동·제어 기술 고도화 필요
+
+<div style="max-width: 850px; margin: 20px auto;">
+  <iframe
+    width="100%"
+    style="aspect-ratio: 16/9; border: none;"
+    src="https://www.youtube.com/watch?v=atpv-xisPTs"
+    title="MSCR 프로젝트 실험 영상"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+  </iframe>
+</div>
