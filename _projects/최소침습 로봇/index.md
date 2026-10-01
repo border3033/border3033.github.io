@@ -8,6 +8,10 @@ skills:
 - 3D 프린팅
 - 파라메트릭 실험
 - lightBurn (레이저 커팅)
+- 자기장 구동
+- 진공 시스템
+- 영상 기반 변위 분석
+- 강성 특성 평가
 main-image: /MSCR main.png
 ---
 
