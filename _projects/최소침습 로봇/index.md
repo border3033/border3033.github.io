@@ -103,7 +103,7 @@ main-image: /MSCR main.png
     alt="섬유 수 비교"
   >
   <figcaption style="margin-top: 8px;">
-    그림 4. 작업 채널이 없는 600가닥 MSCR의 자기장 증가에 따른 형상 변화: 상단은 대기압(0 kPa), 하단은 -40 kPa 진공 상태
+    그림 4. 작업 채널이 없는 600가닥 MSCR의 자기장 증가·감소 사이클에 따른 형상 변화: 대기압(상) 및 -40 kPa 진공 상태(하)
   </figcaption>
 </figure>
 
