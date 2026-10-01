@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 최소침습 의료용 로봇 설계 및 실험
+title: (석사 논문) 최소침습 의료용 로봇 설계 및 실험
 description: 6개월간 외부 연구원으로 리즈대학교에서 자기장으로 구동되는 최소침습 의료용 연성 로봇에 Fibre Jamming 기반 가변강성 구조를 적용하는 연구를 수행했습니다.
 skills: 
 - Fusion 360 (Autodesk)
