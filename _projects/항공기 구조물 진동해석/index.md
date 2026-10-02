@@ -48,9 +48,9 @@ main-image: /coverpage.png
 <div style="text-align: center; margin-top: 25px;">
 
   <img src="1.png"
-       style="max-width: 90%; height: auto; display: block; margin: 0 auto 30px auto;">
+       style="max-width: 75%; height: auto; display: block; margin: 0 auto 30px auto;">
 
   <img src="2.png"
-       style="max-width: 90%; height: auto; display: block; margin: 0 auto;">
+       style="max-width: 75%; height: auto; display: block; margin: 0 auto;">
 
 </div>
