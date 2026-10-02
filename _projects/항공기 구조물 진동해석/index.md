@@ -33,10 +33,13 @@ main-image: /coverpage.png
 
 ## 과제 목표
 
-- Shaker, force transducer와 가속도계를 이용해 항공기 구조물의 **실험 모달 해석(EMA)** 수행
+- Shaker, Force Transducer와 가속도계를 이용해 항공기 구조물의 **실험 모달 해석(EMA)** 수행
 - Abaqus를 활용해 항공기 구조물의 **3D FEA 모델 구축**
-- 실험과 해석에서 얻은 **고유진동수, 모드 형상 및 주파수 응답 함수(FRF)** 비교
-- EMA와 FEA 결과 차이의 원인을 분석하고, 각 방법의 **한계 및 모델링 개선 방향** 검토
+- **자유진동 해석(Free Vibration)**을 통해 고유진동수와 모드 형상 추출 및 비교
+- **강제진동 해석(Forced Vibration)**을 통해 주파수별 응답 및 FRF 분석 및 비교
+- 날개상의 **10개 측정 지점**에서 FRF를 추출하고, 측정 위치에 따른 진동 응답 비교
+- EMA의 **Modal Peaks Function(MPF)**을 이용해 주요 공진 주파수를 식별하고 FEA 결과와 비교
+- EMA와 FEA의 **고유진동수, 모드 형상 및 FRF 차이**를 분석하고 모델링 한계 및 개선 방향 검토
 
 
 
