@@ -51,7 +51,6 @@ main-image: /coverpage.png
 - **실험–해석 차이 및 한계 분석:** 저·중주파에서는 EMA와 FEA의 고유진동수 및 모드 형상이 비교적 유사했으나, **325.71 Hz(EMA)와 328.39 Hz(FEA)** 부근에서는 주파수는 유사해도 모드 형상 차이가 크게 나타남. 이는 EMA의 **날개 10개 측정점 제한**, FEA의 **감쇠 미적용, 홀·조인트·제작 오차 생략 및 0.02 m 고정 메쉬** 등 실험·모델링 조건 차이에 따른 것으로 분석함.
 
 
-- **고유진동수 및 모드 형상 비교:** EMA 실험 결과와 Abaqus 자유진동 해석 결과를 비교하여 주요 고유진동수와 모드 형상을 분석
 
 <div style="text-align: center; margin-top: 25px;">
 
@@ -62,3 +61,26 @@ main-image: /coverpage.png
        style="max-width: 75%; height: auto; display: block; margin: 0 auto;">
 
 </div>
+
+<div style="display: flex; gap: 24px; justify-content: center; align-items: flex-start; flex-wrap: wrap; margin-top: 25px;">
+
+  <figure style="flex: 1 1 0; max-width: 48%; min-width: 300px; margin: 0; text-align: center;">
+    <img src="FRF10.png"
+         style="width: 100%; height: 400px; object-fit: contain;"
+         alt="FEA 10개 측정 지점의 FRF">
+    <figcaption style="margin-top: 8px;">
+      FEA: 날개 10개 측정 지점의 주파수 응답 함수(FRF)
+    </figcaption>
+  </figure>
+
+  <figure style="flex: 1 1 0; max-width: 48%; min-width: 300px; margin: 0; text-align: center;">
+    <img src="EMA10.png"
+         style="width: 100%; height: 400px; object-fit: contain;"
+         alt="EMA 10개 측정 지점의 FRF">
+    <figcaption style="margin-top: 8px;">
+      EMA: 날개 10개 측정 지점의 주파수 응답 함수(FRF)
+    </figcaption>
+  </figure>
+
+</div>
+
