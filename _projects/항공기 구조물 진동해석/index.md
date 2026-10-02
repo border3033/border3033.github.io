@@ -43,4 +43,14 @@ main-image: /coverpage.png
 
 
 
+- **고유진동수 및 모드 형상 비교:** EMA 실험 결과와 Abaqus 자유진동 해석 결과를 비교하여 주요 고유진동수와 모드 형상을 분석
 
+<div style="text-align: center; margin-top: 25px;">
+
+  <img src="1.png"
+       style="max-width: 90%; height: auto; display: block; margin: 0 auto 30px auto;">
+
+  <img src="2.png"
+       style="max-width: 90%; height: auto; display: block; margin: 0 auto;">
+
+</div>
