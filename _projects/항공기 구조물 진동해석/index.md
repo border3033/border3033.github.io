@@ -54,29 +54,41 @@ main-image: /coverpage.png
 
 <div style="text-align: center; margin-top: 25px;">
 
-  <img src="1.png"
-       style="max-width: 75%; height: auto; display: block; margin: 0 auto 30px auto;">
+  <img
+    src="https://raw.githubusercontent.com/border3033/border3033.github.io/main/_projects/항공기%20구조물%20진동해석/1.png"
+    style="max-width: 75%; height: auto; display: block; margin: 0 auto 30px auto;"
+    alt="EMA와 FEA의 고유진동수 및 모드 형상 비교"
+  >
 
-  <img src="2.png"
-       style="max-width: 75%; height: auto; display: block; margin: 0 auto;">
+  <img
+    src="https://raw.githubusercontent.com/border3033/border3033.github.io/main/_projects/항공기%20구조물%20진동해석/2.png"
+    style="max-width: 75%; height: auto; display: block; margin: 0 auto;"
+    alt="EMA와 FEA의 고유진동수 및 모드 형상 비교"
+  >
 
 </div>
 
 <div style="display: flex; gap: 24px; justify-content: center; align-items: flex-start; flex-wrap: wrap; margin-top: 25px;">
 
+  <!-- FEA -->
   <figure style="flex: 1 1 0; max-width: 48%; min-width: 300px; margin: 0; text-align: center;">
-    <img src="FRF10.png"
-         style="width: 100%; height: 400px; object-fit: contain;"
-         alt="FEA 10개 측정 지점의 FRF">
+    <img
+      src="https://raw.githubusercontent.com/border3033/border3033.github.io/main/_projects/항공기%20구조물%20진동해석/FRF10.png"
+      style="width: 100%; height: 400px; object-fit: contain;"
+      alt="FEA 10개 측정 지점의 FRF"
+    >
     <figcaption style="margin-top: 8px;">
       FEA: 날개 10개 측정 지점의 주파수 응답 함수(FRF)
     </figcaption>
   </figure>
 
+  <!-- EMA -->
   <figure style="flex: 1 1 0; max-width: 48%; min-width: 300px; margin: 0; text-align: center;">
-    <img src="EMA10.png"
-         style="width: 100%; height: 400px; object-fit: contain;"
-         alt="EMA 10개 측정 지점의 FRF">
+    <img
+      src="https://raw.githubusercontent.com/border3033/border3033.github.io/main/_projects/항공기%20구조물%20진동해석/EMA10.png"
+      style="width: 100%; height: 400px; object-fit: contain;"
+      alt="EMA 10개 측정 지점의 FRF"
+    >
     <figcaption style="margin-top: 8px;">
       EMA: 날개 10개 측정 지점의 주파수 응답 함수(FRF)
     </figcaption>
