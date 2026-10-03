@@ -41,6 +41,34 @@ main-image: /coverpage.png
 - EMA의 **Modal Peaks Function(MPF)**을 이용해 주요 공진 주파수를 식별하고 FEA 결과와 비교
 - EMA와 FEA의 **고유진동수, 모드 형상 및 FRF 차이**를 분석하고 모델링 한계 및 개선 방향 검토
 
+<div style="display: flex; gap: 24px; justify-content: center; align-items: flex-start; flex-wrap: wrap; margin-top: 25px; margin-bottom: 35px;">
+
+  <!-- EMA -->
+  <figure style="flex: 1 1 0; max-width: 48%; min-width: 300px; margin: 0; text-align: center;">
+    <img
+      src="https://raw.githubusercontent.com/border3033/border3033.github.io/main/_projects/항공기%20구조물%20진동해석/EMA.png"
+      style="width: 100%; height: 400px; object-fit: contain;"
+      alt="EMA Hardware Setup"
+    >
+    <figcaption style="margin-top: 8px;">
+      그림 1. 실험 모달 해석(EMA) 실험 구성
+    </figcaption>
+  </figure>
+
+  <!-- Abaqus -->
+  <figure style="flex: 1 1 0; max-width: 48%; min-width: 300px; margin: 0; text-align: center;">
+    <img
+      src="https://raw.githubusercontent.com/border3033/border3033.github.io/main/_projects/항공기%20구조물%20진동해석/abaqus.png"
+      style="width: 100%; height: 400px; object-fit: contain;"
+      alt="Abaqus 3D FEA Model"
+    >
+    <figcaption style="margin-top: 8px;">
+      그림 2. Abaqus 기반 항공기 구조물 3D FEA 모델
+    </figcaption>
+  </figure>
+
+</div>
+
 
 ## 결과 및 검토
 
