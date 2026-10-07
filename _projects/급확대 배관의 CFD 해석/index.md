@@ -14,4 +14,9 @@ skills:
 main-image: /coverpage.png
 ---
 
+## 프로젝트 개요
 
+- **프로젝트:** 급확대 배관의 CFD 해석 및 Mesh Refinement
+- **수행 기간:** 2025년 3월 ~ 2025년 4월
+- **소속:** 영국 글래스고대학교 기계공학과
+- **과제 유형:** Computational Fluid Dynamics 4 개인 과제
