@@ -36,3 +36,28 @@ main-image: /coverpage.png
 - **PIV 실험 결과 비교:** 재부착 길이 **0.061 m**로 실험값 대비 약 **0.15% 차이**, 재발달 길이는 약 **10.7% 차이** 확인
 - **추가 개선 방향:** Wake 영역 중심의 Mesh Refinement와 3D 모델 비교 필요성 검토
 
+
+<div style="text-align: center; margin-top: 25px;">
+
+  <img
+    src="https://raw.githubusercontent.com/border3033/border3033.github.io/main/_projects/급확대%20배관의%20CFD%20해석/computational-domain.png"
+    style="max-width: 85%; height: auto; display: block; margin: 0 auto 8px auto;"
+    alt="급확대 배관의 2D 축대칭 해석 영역"
+  >
+  <p style="margin-bottom: 30px;"><b>그림 1. 급확대 배관의 2D 축대칭 해석 영역</b></p>
+
+  <img
+    src="https://raw.githubusercontent.com/border3033/border3033.github.io/main/_projects/급확대%20배관의%20CFD%20해석/boundary-condition.png"
+    style="max-width: 75%; height: auto; display: block; margin: 0 auto 8px auto;"
+    alt="STAR-CCM+ 경계조건 설정"
+  >
+  <p style="margin-bottom: 30px;"><b>그림 2. STAR-CCM+ 해석 모델의 경계조건 설정</b></p>
+
+  <img
+    src="https://raw.githubusercontent.com/border3033/border3033.github.io/main/_projects/급확대%20배관의%20CFD%20해석/mesh.png"
+    style="max-width: 90%; height: auto; display: block; margin: 0 auto 8px auto;"
+    alt="최종 계산 격자 및 국부 Mesh Refinement"
+  >
+  <p><b>그림 3. 최종 계산 격자(M4) 및 국부 Mesh Refinement</b></p>
+
+</div>
