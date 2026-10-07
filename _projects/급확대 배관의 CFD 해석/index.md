@@ -49,7 +49,7 @@ main-image: /coverpage.png
   <img
     src="https://raw.githubusercontent.com/border3033/border3033.github.io/main/_projects/급확대%20배관의%20CFD%20해석/boundary-condition.png"
     style="max-width: 75%; height: auto; display: block; margin: 0 auto 8px auto;"
-    alt="STAR-CCM+ 경계조건 설정"
+    alt="STAR-CCM+ 경계조건"
   >
   <p style="margin-bottom: 30px;"><b>그림 2. STAR-CCM+ 해석 모델의 경계조건 설정</b></p>
 
