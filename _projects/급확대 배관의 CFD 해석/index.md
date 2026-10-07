@@ -39,55 +39,97 @@ main-image: /coverpage.png
 <br>
 <div style="text-align: center; margin-top: 25px;">
 
-  <img
-    src="https://raw.githubusercontent.com/border3033/border3033.github.io/main/_projects/급확대%20배관의%20CFD%20해석/computational%20domain.png"
-    style="max-width: 85%; height: auto; display: block; margin: 0 auto 8px auto;"
-    alt="급확대 배관의 2D 축대칭 해석 영역"
-  >
-  <p style="margin-bottom: 30px;"><b>그림 1. 급확대 배관의 2D 축대칭 해석 영역</b></p>
+  <!-- Figure 1 -->
+  <figure style="margin: 0 auto 40px auto;">
+    <img
+      src="https://raw.githubusercontent.com/border3033/border3033.github.io/main/_projects/급확대%20배관의%20CFD%20해석/computational-domain.png"
+      style="max-width: 90%; height: auto; display: block; margin: 0 auto;"
+      alt="급확대 배관의 2D 축대칭 해석 영역"
+    >
+    <figcaption style="margin-top: 8px;">
+      그림 1. 급확대 배관의 2D 축대칭 해석 영역
+    </figcaption>
+  </figure>
 
-  <img
-    src="https://raw.githubusercontent.com/border3033/border3033.github.io/main/_projects/급확대%20배관의%20CFD%20해석/boundary%20condition.png"
-    style="max-width: 75%; height: auto; display: block; margin: 0 auto 8px auto;"
-    alt="STAR-CCM+ 경계조건"
-  >
-  <p style="margin-bottom: 30px;"><b>그림 2. STAR-CCM+ 해석 모델의 경계조건 설정</b></p>
 
-  <img
-    src="https://raw.githubusercontent.com/border3033/border3033.github.io/main/_projects/급확대%20배관의%20CFD%20해석/mesh.png"
-    style="max-width: 90%; height: auto; display: block; margin: 0 auto 8px auto;"
-    alt="최종 계산 격자 및 국부 Mesh Refinement"
-  >
-  <p><b>그림 3. 최종 계산 격자(M4) 및 국부 Mesh Refinement</b></p>
+  <!-- Figure 2 -->
+  <figure style="margin: 0 auto 40px auto;">
+    <img
+      src="https://raw.githubusercontent.com/border3033/border3033.github.io/main/_projects/급확대%20배관의%20CFD%20해석/boundary-condition.png"
+      style="max-width: 80%; height: auto; display: block; margin: 0 auto;"
+      alt="STAR-CCM+ 경계조건 설정"
+    >
+    <figcaption style="margin-top: 8px;">
+      그림 2. STAR-CCM+ 해석 모델의 경계조건 설정
+    </figcaption>
+  </figure>
 
-</div>
 
-<div style="display: flex; gap: 24px; justify-content: center; align-items: flex-start; flex-wrap: wrap; margin-top: 25px; margin-bottom: 35px;">
+  <!-- Figure 3 -->
+  <figure style="margin: 0 auto 40px auto;">
+    <img
+      src="https://raw.githubusercontent.com/border3033/border3033.github.io/main/_projects/급확대%20배관의%20CFD%20해석/mesh.png"
+      style="max-width: 95%; height: auto; display: block; margin: 0 auto;"
+      alt="최종 계산 격자 M4 및 국부 Mesh Refinement"
+    >
+    <figcaption style="margin-top: 8px;">
+      그림 3. 최종 계산 격자(M4) 및 국부 Mesh Refinement
+    </figcaption>
+  </figure>
 
-  <!-- Residual Convergence -->
-  <figure style="flex: 1 1 0; max-width: 48%; min-width: 300px; margin: 0; text-align: center;">
+
+  <!-- Figure 4 -->
+  <figure style="margin: 0 auto 40px auto;">
     <img
       src="https://raw.githubusercontent.com/border3033/border3033.github.io/main/_projects/급확대%20배관의%20CFD%20해석/residual.png"
-      style="width: 100%; height: 400px; object-fit: contain;"
-      alt="Mesh M1 Residual Convergence"
+      style="max-width: 90%; height: auto; display: block; margin: 0 auto;"
+      alt="Mesh M1의 Residual 수렴 이력"
     >
     <figcaption style="margin-top: 8px;">
       그림 4. Mesh M1의 반복 횟수에 따른 Residual 변화 및 해석 수렴성
     </figcaption>
   </figure>
 
-  <!-- PIV Comparison -->
-  <figure style="flex: 1 1 0; max-width: 48%; min-width: 300px; margin: 0; text-align: center;">
+
+  <!-- Figure 5 -->
+  <figure style="margin: 0 auto 40px auto;">
     <img
       src="https://raw.githubusercontent.com/border3033/border3033.github.io/main/_projects/급확대%20배관의%20CFD%20해석/비교.png"
-      style="width: 100%; height: 400px; object-fit: contain;"
-      alt="Comparison of CFD and Hammad et al. PIV Experiment"
+      style="max-width: 90%; height: auto; display: block; margin: 0 auto;"
+      alt="CFD 해석과 PIV 실험의 축방향 속도 비교"
     >
     <figcaption style="margin-top: 8px;">
-      그림 5. 급확대 이후 중심축의 무차원 축방향 속도 \(V_x/U_i\) 분포와 Hammad et al. (1999) PIV 실험 결과 비교
+      그림 5. 급확대 이후 중심축의 축방향 속도 분포와 Hammad et al. (1999) PIV 실험 결과 비교
+    </figcaption>
+  </figure>
+
+
+  <!-- Figure 6 -->
+  <figure style="margin: 0 auto 40px auto;">
+    <img
+      src="https://raw.githubusercontent.com/border3033/border3033.github.io/main/_projects/급확대%20배관의%20CFD%20해석/streamwise%20velocity.png"
+      style="max-width: 95%; height: auto; display: block; margin: 0 auto;"
+      alt="급확대 배관의 축방향 속도 분포"
+    >
+    <figcaption style="margin-top: 8px;">
+      그림 6. 급확대 배관 중심 단면의 축방향 속도 분포
+    </figcaption>
+  </figure>
+
+
+  <!-- Figure 7 -->
+  <figure style="margin: 0 auto 40px auto;">
+    <img
+      src="https://raw.githubusercontent.com/border3033/border3033.github.io/main/_projects/급확대%20배관의%20CFD%20해석/streamline.png"
+      style="max-width: 95%; height: auto; display: block; margin: 0 auto;"
+      alt="급확대부의 Streamline 및 재순환 영역"
+    >
+    <figcaption style="margin-top: 8px;">
+      그림 7. Streamline을 이용한 급확대부의 유동 분리 및 재순환 영역 시각화
     </figcaption>
   </figure>
 
 </div>
+
 
 
