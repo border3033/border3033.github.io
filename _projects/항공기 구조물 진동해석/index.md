@@ -122,3 +122,31 @@ main-image: /coverpage.png
 
 </div>
 
+<div style="display: flex; gap: 24px; justify-content: center; align-items: flex-start; flex-wrap: wrap; margin-top: 25px; margin-bottom: 35px;">
+
+  <!-- Residual Convergence -->
+  <figure style="flex: 1 1 0; max-width: 48%; min-width: 300px; margin: 0; text-align: center;">
+    <img
+      src="https://raw.githubusercontent.com/border3033/border3033.github.io/main/_projects/급확대%20배관의%20CFD%20해석/residual.png"
+      style="width: 100%; height: 400px; object-fit: contain;"
+      alt="Mesh M1 Residual Convergence"
+    >
+    <figcaption style="margin-top: 8px;">
+      그림 4. Mesh M1의 반복 횟수에 따른 Residual 변화 및 해석 수렴성
+    </figcaption>
+  </figure>
+
+  <!-- PIV Comparison -->
+  <figure style="flex: 1 1 0; max-width: 48%; min-width: 300px; margin: 0; text-align: center;">
+    <img
+      src="https://raw.githubusercontent.com/border3033/border3033.github.io/main/_projects/급확대%20배관의%20CFD%20해석/비교.png"
+      style="width: 100%; height: 400px; object-fit: contain;"
+      alt="Comparison of CFD and Hammad et al. PIV Experiment"
+    >
+    <figcaption style="margin-top: 8px;">
+      그림 5. 급확대 이후 중심축의 무차원 축방향 속도 \(V_x/U_i\) 분포와 Hammad et al. (1999) PIV 실험 결과 비교
+    </figcaption>
+  </figure>
+
+</div>
+
