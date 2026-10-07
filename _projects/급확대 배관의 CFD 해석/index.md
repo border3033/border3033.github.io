@@ -28,3 +28,10 @@ main-image: /coverpage.png
 - 속도 분포와 Streamline을 통해 **유동 분리, 재순환 및 재부착 현상 분석**
 - Hammad et al.의 **PIV 실험 데이터와 CFD 해석 결과를 비교하여 해석 정확도 평가** ([논문 보기 ↗](https://doi.org/10.1007/s003480050288))
 
+## 결과 및 검토
+
+- **해석 모델 구축:** 2D 축대칭 급확대 배관 모델에 Velocity Inlet, Pressure Outlet, Wall 및 Axis 경계조건 적용
+- **Mesh 개선 및 수렴성 검토:** M1~M4까지 단계적으로 Mesh를 개선하여 급확대부·재부착 영역은 세분화하고 비관심 영역은 Coarse하게 구성했으며, Residual 및 압력 Monitor를 통해 수렴성 확인
+- **유동 특성 분석:** 속도 분포와 Streamline을 통해 유동 분리, 역류, 재순환 및 재부착 현상 확인
+- **PIV 실험 결과 비교:** 재부착 길이 **0.061 m**로 실험값 대비 약 **0.15% 차이**, 재발달 길이는 약 **10.7% 차이** 확인
+- **추가 개선 방향:** Wake 영역 중심의 Mesh Refinement와 3D 모델 비교 필요성 검토
