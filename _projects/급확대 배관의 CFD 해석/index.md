@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 급확대 배관의 CFD 해석 및 Mesh 최적화
-description: STAR-CCM+를 활용해 급확대 배관의 2D 축대칭 CFD 모델을 구축하고, Mesh refinement에 따른 해석 결과 변화를 비교했습니다. 급확대부에서 발생하는 유동 분리와 재부착, 속도 분포, 압력 강하 및 재발달 특성을 분석한 CFD 해석 과제입니다.
+description: STAR-CCM+ 기반 2D 축대칭 급확대 배관 CFD 해석을 수행하고, Mesh Refinement에 따른 유동 변화를 분석했습니다. 재순환/재부착/속도 분포 및 재발달 특성을 확인하고, PIV 실험 데이터와 비교했습니다.
 
 skills:
   - STAR-CCM+
@@ -31,7 +31,8 @@ main-image: /coverpage.png
 ## 결과 및 검토
 
 - **해석 모델 구축:** 2D 축대칭 급확대 배관 모델에 Velocity Inlet, Pressure Outlet, Wall 및 Axis 경계조건 적용
-- **Mesh 개선 및 수렴성 검토:** M1~M4까지 단계적으로 Mesh를 개선하여 급확대부·재부착 영역은 세분화하고 비관심 영역은 Coarse하게 구성했으며, Residual 및 압력 Monitor를 통해 수렴성 확인
+- **Mesh 개선 및 수렴성 검토:** M1~M4까지 단계적으로 Mesh를 개선하여 급확대부/재부착 영역은 세분화하고 비관심 영역은 Coarse하게 구성했으며, Residual 및 압력 Monitor를 통해 수렴성 확인
 - **유동 특성 분석:** 속도 분포와 Streamline을 통해 유동 분리, 역류, 재순환 및 재부착 현상 확인
 - **PIV 실험 결과 비교:** 재부착 길이 **0.061 m**로 실험값 대비 약 **0.15% 차이**, 재발달 길이는 약 **10.7% 차이** 확인
 - **추가 개선 방향:** Wake 영역 중심의 Mesh Refinement와 3D 모델 비교 필요성 검토
+
