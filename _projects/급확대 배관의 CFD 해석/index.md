@@ -43,7 +43,7 @@ main-image: /coverpage.png
   <figure style="margin: 0 auto 40px auto;">
     <img
       src="https://raw.githubusercontent.com/border3033/border3033.github.io/main/_projects/급확대%20배관의%20CFD%20해석/computational%20domain.png"
-      style="max-width: 90%; height: auto; display: block; margin: 0 auto;"
+      style="max-width: 70%; height: auto; display: block; margin: 0 auto;"
       alt="급확대 배관의 2D 축대칭 해석 영역"
     >
     <figcaption style="margin-top: 8px;">
@@ -56,7 +56,7 @@ main-image: /coverpage.png
   <figure style="margin: 0 auto 40px auto;">
     <img
       src="https://raw.githubusercontent.com/border3033/border3033.github.io/main/_projects/급확대%20배관의%20CFD%20해석/boundary%20condition.png"
-      style="max-width: 80%; height: auto; display: block; margin: 0 auto;"
+      style="max-width: 70%; height: auto; display: block; margin: 0 auto;"
       alt="STAR-CCM+ 경계조건 설정"
     >
     <figcaption style="margin-top: 8px;">
