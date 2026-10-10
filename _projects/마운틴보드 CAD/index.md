@@ -17,27 +17,22 @@ main-image: /coverpage.png
 
 ## 최종 CAD 도면
 
-<div style="width: 100%; margin-top: 25px; margin-bottom: 15px;">
+<div style="
+  width: 100%;
+  height: 95vh;
+  margin-top: 25px;
+  margin-bottom: 30px;
+">
 
   <iframe
-    src="https://raw.githubusercontent.com/border3033/border3033.github.io/main/_projects/마운틴보드%20CAD/Final%20Assembly%20Drawings.pdf#view=FitH"
-    width="100%"
-    height="900px"
-    style="border: 1px solid #ddd; border-radius: 6px;"
-    title="Mountain Board 전체 CAD 조립 도면">
+    src="/assets/Project%20pdf/Final%20Assembly%20Drawings.pdf#view=FitH"
+    style="
+      width: 100%;
+      height: 100%;
+      border: none;
+      display: block;
+    "
+    title="Mountain Board 최종 CAD 도면">
   </iframe>
 
 </div>
-
-<p style="text-align: center; margin-top: 8px;">
-  Mountain Board 전체 조립도 · 등각도 · 분해도
-</p>
-
-<p style="text-align: center;">
-  <a
-    href="https://raw.githubusercontent.com/border3033/border3033.github.io/main/_projects/마운틴보드%20CAD/Final%20Assembly%20Drawings.pdf"
-    target="_blank"
-    rel="noopener noreferrer">
-    전체 화면으로 PDF 보기 ↗
-  </a>
-</p>
