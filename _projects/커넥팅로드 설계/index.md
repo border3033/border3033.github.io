@@ -1,15 +1,16 @@
 ---
 layout: post
-title: Mountain Board CAD 설계 및 조립도 제작
-description: Fusion 360을 활용해 Mountain Board의 Deck을 직접 3D 모델링하고, 제공된 부품 및 서브어셈블리를 조립하여 전체 Assembly를 구성했습니다. 이후 Exploded View와 Assembly Drawing을 제작했습니다.
+title: 커넥팅 로드 설계 및 구조해석
+description: Fusion 360을 활용해 커넥팅 로드의 3D CAD 모델을 설계하고, 최대 압축하중을 계산하여 FEA 기반 응력 및 안전율 분석을 수행했습니다. Granta EduPack을 통한 재료 선정, DFMEA 및 사출성형 공정을 고려한 설계 최적화와 OpenLCA 기반 환경영향 평가를 진행했습니다.
 
 skills:
   - Fusion 360
-  - CAD Drawing
-  - Assembly Modeling
-  - 등각도 및 분해도 작성
-  - 부품 간 조립 및 Part List 작성
-  - BS 8888 도면 작성
+  - Granta EduPack
+  - OpenLCA
+  - 3D CAD 모델링 및 제작도 작성
+  - 유한요소해석 (FEA)
+  - 재료 선정 및 DFMEA
+  - 사출성형을 고려한 설계 (DFM)
 
 main-image: /coverpage.png
 ---
